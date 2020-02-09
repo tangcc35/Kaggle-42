@@ -1,2 +1,2 @@
 # Data-2040-Midterm-Project
-cool1
+This folder includes everything of the Data 2040 Midterm project: Optical Character Recognition on Bengali.
