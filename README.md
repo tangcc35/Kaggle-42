@@ -1,7 +1,7 @@
-# Data-2040-Midterm-Project  ![](https://img.shields.io/badge/python-3.7+-blue.svg)  
+# Data-2040-Midterm-Project  ![](https://img.shields.io/badge/python-3.7+-gold.svg)  
 ***Group Member: Shiyu Liu, Cangcheng Tang, Guanzhong Chen***
 
-# Hand-written Bengali Grapheme Classification
+<h1>Hand-written Bengali Grapheme Classification</h1>
 
 ## Introduction
 
