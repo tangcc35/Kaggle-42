@@ -12,3 +12,4 @@ We split the input dataset into training and test sets. The training set consist
 Empirical cases have shown that the convolutional neural network(CNN) is the most popular deep learning method conducting image classification. We use such methods with various architectures to classify the three constituents. 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HszJ-d8CF6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
