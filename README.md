@@ -11,5 +11,6 @@ We split the input dataset into training and test sets. The training set consist
 
 Empirical cases have shown that the convolutional neural network(CNN) is the most popular deep learning method conducting image classification. We use such methods with various architectures to classify the three constituents. 
 
+[Final Blog Post](https://medium.com/@tangcc35/hand-written-bengali-grapheme-classification-398c2d73ddf2)
 
-<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/HszJ-d8CF6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+[Screencast Link](https://www.youtube.com/embed/HszJ-d8CF6s)
